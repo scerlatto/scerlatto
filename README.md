@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on the Reboot project with Leeds Trinity University.  
-- 🌱 I’m currently learning web development. 
+- 🌱 I’m currently learning web development and graphic design. 
 - 😄 Pronouns: She / her
 
 <h3 align="left">Languages and Tools:</h3>
